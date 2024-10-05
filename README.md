@@ -1,5 +1,7 @@
-## Hi there 123👋
-
+## Hi there 👋
+🔭 I am currently a student at the San Cristóbal de Huamanga University
+🌱I am currently learning information systems, databases and programming in Python.
+🤔 I am looking to improve my skills and know what specialty I can be very good at
 <!--
 **JuanT147/JuanT147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
