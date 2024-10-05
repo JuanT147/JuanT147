@@ -1,5 +1,5 @@
 ## Hi there 👋
-##🔭 I am currently a student at the San Cristóbal de Huamanga University
+##🔭 I am currently a student at the San Cristóbal de Huamanga University //
 ##🌱I am currently learning information systems, databases and programming in Python.
 ##🤔 I am looking to improve my skills and know what specialty I can be very good at
 <!--
